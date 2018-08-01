@@ -1,9 +1,9 @@
 {
-    "name": "vlmz/v-laravel-admin",
+    "name": "vlmz/admin",
     "description": "laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
-    "homepage": "https://github.com/vlmz/v-laravel-admin",
+    "homepage": "https://github.com/vlmz/admin",
     "license": "MIT",
     "authors": [
         {
